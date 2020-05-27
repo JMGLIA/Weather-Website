@@ -1,20 +1,16 @@
-.box {
-    min-height: 50px;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 800;
-    color: #fff;
-  }
+
   
   h1 {
-    background: deepskyblue;
+    background: dimgrey;
+    position: relative;
   }
   
-  .purple {
-    background: rebeccapurple;
+   
+  .navbar{
+    background: darkslategray;
   }
-  
-  .red {
-    background: indianred;
+
+  .collapse {
+    background: rgb(194, 185, 161);
   }
   
