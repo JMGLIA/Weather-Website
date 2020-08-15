@@ -1,2 +1,5 @@
-# Web-Design-Challenge
-https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWU-ARL-DATA-PT-12-2019-U-C/tree/master/02-Homework/11-Web/Instructions
+
+I used Bootstrap to create a simple website to display the results of a dataset that compared weather conditions throughout the year in metropolitan areas around the world.
+
+The site includes explanations for each of the data visualizations created from the dataset.
+
